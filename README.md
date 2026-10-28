@@ -1,6 +1,6 @@
 # 🛠️ fixProxy
 
-**fixProxy** es una herramienta para **resolver problemas de navegación en Windows** causados por configuraciones de proxy globales.  
+**fixProxy** es una herramienta para **resolver problemas de navegación en Windows** causados por configuraciones de proxy globales.  Básicamente soluciona el problema de proxy que provoca que en el navegador te aparezca el error de *Sin internet* o *No se puede acceder a este sitio*
 Al ejecutarlo, establece en el Registro:
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\ProxySettingsPerUser
